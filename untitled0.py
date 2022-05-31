@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report,accuracy_score
 from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv("F:/college/Sem 6/Disease prediction using decision tree/Training.csv")
+df = pd.read_csv("Training.csv")
 
 df.drop('Unnamed: 133', axis=1, inplace=True)
 
