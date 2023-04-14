@@ -166,4 +166,4 @@ if st.button("Prediction result"):
     st.write("You have following disease")
     st.write(y_user)
 
-st.text('Developed by Ahsutosh Jadhav')    
+st.text('Developed by Ashutosh Jadhav')    
