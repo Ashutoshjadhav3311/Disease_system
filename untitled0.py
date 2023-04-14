@@ -165,3 +165,5 @@ y_user=tree.predict(x_user)
 if st.button("Prediction result"):
     st.write("You have following disease")
     st.write(y_user)
+
+st.text('Developed by Ahsutosh Jadhav')    
