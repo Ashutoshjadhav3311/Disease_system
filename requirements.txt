@@ -55,7 +55,8 @@ parso==0.7.0
 pathspec==0.7.0
 patsy==0.5.1
 pep8==1.7.1
-pip==22.0.3
+pip==23.2.1
+
 pipreqs==0.4.11
 pkginfo==1.7.0
 ply==3.11
@@ -84,7 +85,7 @@ sip==4.19.13
 smmap==5.0.0
 sqlparse==0.4.2
 statsmodels==0.12.2
-streamlit==1.5.1
+streamlit==1.27.0
 tables==3.6.1
 terminado==0.9.4
 tzdata==2021.5
