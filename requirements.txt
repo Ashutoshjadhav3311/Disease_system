@@ -1,6 +1,6 @@
 altair==4.2.0
 
-anaconda-navigator==2.0.3
+anaconda-navigator==23.5.0
 appdirs==1.4.4
 argh==0.26.2
 asgiref==3.5.0
